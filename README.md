@@ -1,2 +1,2 @@
-# pizza-management--systam
-python project pizza
+# Pizza-Management-System
+Pizza Management System using Python | Management System in Python GUI
